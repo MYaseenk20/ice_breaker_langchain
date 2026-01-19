@@ -39,8 +39,8 @@ Create a `.env` file or set environment variables before running the app:
 # OpenAI API Key (from https://openai.com)
 OPENAI_API_KEY=sk-xxxxx
 
-# SerpAPI (for Google search)
-SERPAPI_API_KEY=xxxxxx
+# ScrapIN (for Scraping)
+SCRAPIN_API_KEY=xxxxxx
 
 # ProxCurl API (for LinkedIn data)
 PROXYCURL_API_KEY=xxxxxx
@@ -53,4 +53,5 @@ TWITTER_ACCESS_SECRET=xxxx
 
 # Optional: Use sample Twitter data to skip API call
 TWITTER_SAMPLE=1
+
 
